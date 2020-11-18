@@ -3,7 +3,6 @@
 from builtins import len
 
 
-# Test
 
 def binary_search_recurse(arr, k, low, high):
     if low <= high:

@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
+
 class GetIpData(object):
     header = {''}
     base_url = ''
@@ -13,8 +14,8 @@ class GetIpData(object):
     def get_url_html(self, url):
         request = requests.get(url=url, headers=self.header, timeout=5)
         html = False
-        if requests.status_codes == 200:
-            html = requests.content
+        if request.status_codes == 200:
+            html = request.content
         return html
 
     def check_ip(self, ip_info):
@@ -30,7 +31,7 @@ class GetIpData(object):
         return res
 
     def run(self):
-        page_list = range(1,51)
+        page_list = range(1, 51)
         with open("ip.json", "w") as write_file:
             for page in page_list:
                 print()
@@ -56,6 +57,5 @@ class GetIpData(object):
 
 
 if __name__ == "__main__":
-
     ip = GetIpData()
     ip.run
