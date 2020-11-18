@@ -10,7 +10,7 @@ def knapsack(t, w):
     """
     n = len(w)  # 可选物品数量
     stack = []  # 创建一个栈
-    k = 0       # 当前所选择的物品游标
+    k = 0  # 当前所选择的物品游标
     while stack or k < n:  # 栈不为空或者k<n
         while t > 0 and k < n:  # 还有剩余空间并且有东西可装
             if t > w[k]:  # 剩余空间大于当前物品所有重量
@@ -23,5 +23,7 @@ def knapsack(t, w):
         t = t + w[k]  # 背包总容量加上w[k]
         k = k + 1  # 装入下一个物品
 
-knapsack(10, [1, 8, 4, 3, 5, 2])
-print(123)
+
+if __name__ == "__main__":
+    knapsack(10, [1, 8, 4, 3, 5, 2])
+    print(123)
