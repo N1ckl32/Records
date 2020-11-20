@@ -19,6 +19,7 @@ def modbubblesort(alist):
     while passnum >= 1 and exchange:
         exchange = False
         for i in range(passnum):
+            print(passnum)
             if alist[i] > alist[i + 1]:
                 alist[i], alist[i + 1] = alist[i + 1], alist[i]
                 exchange = True
