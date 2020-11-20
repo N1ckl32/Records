@@ -1,5 +1,5 @@
 # Records
-N1acik离线无聊写bug
+N1acik离线 无聊写bug
 
 人生得有理想，不只有工作
 
