@@ -12,10 +12,40 @@
 ||mozilla.org
 ||incoming.telemetry.mozilla.org
 
+! domain: Wappalyzer
 ||wappalyzer.com
 ||ad.wappalyzer.com
 
 ||baidu.com
 ||www.baidu.com
+||passport.baidu.com
+||hectorstatic.baidu.com
+||ss1.bdstatic.com
 
 ||gov.cn
+
+! domain: LastPass
+||lastpass.com
+||loglogin.lastpass.com
+||pollserver.lastpass.com
+
+! domain: 腾讯文档
+||qq.com
+||aegis.qq.com
+||docs.qq.com
+||docs.idqqimg.com
+||otheve.beacon.qq.com
+||report.idqqimg.com
+||access.toggle.qq.com
+||ad.browser.qq.com
+||idqqimg.com
+||report.idqqimg.com
+||event.toggle.qq.com
+||cdn-go.cn
+||cdn.addon.tencentsuite.com
+||alloyreport.cdn-go.cn
+
+! domain: 壁纸插件
+||momentumdash.com
+||api.momentumdash.com
+||stats.momentumdash.com
