@@ -1,0 +1,21 @@
+[Proxy By Neacik for burp-auto]
+! Title: burp-auto
+
+||mozilla.com
+||sync-1-us-west1-g.sync.services.mozilla.com
+||firefox.settings.services.mozilla.com
+||token.services.mozilla.com
+
+||firefox.com
+||profile.accounts.firefox.com
+
+||mozilla.org
+||incoming.telemetry.mozilla.org
+
+||wappalyzer.com
+||ad.wappalyzer.com
+
+||baidu.com
+||www.baidu.com
+
+||gov.cn
