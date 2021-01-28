@@ -1,4 +1,4 @@
-[Proxy By Neacik for burp-auto]
+[Proxy By Neaciks for burp-auto]
 ! Title: burp-auto
 
 ||mozilla.net
