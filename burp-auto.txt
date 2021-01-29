@@ -70,3 +70,6 @@
 
 ||126.net
 ||cstaticdun.126.net
+
+||adblockplus.org
+||easylist-downloads.adblockplus.org
