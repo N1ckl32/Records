@@ -31,6 +31,8 @@
 ||ss1.bdstatic.com
 ||api.map.baidu.com
 ||map.baidu.com
+||bdstatic.com
+||dss0.bdstatic.com
 
 ||gov.cn
 
