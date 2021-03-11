@@ -75,6 +75,3 @@
 
 ||adblockplus.org
 ||easylist-downloads.adblockplus.org
-
-||raw.githubusercontent.com
-||githubusercontent.com
