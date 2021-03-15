@@ -3,6 +3,9 @@
 
 ||mozilla.net
 ||snippets.cdn.mozilla.net
+||cdn.mozilla.net
+||content-signature-2.cdn.mozilla.net
+||firefox-settings-attachments.cdn.mozilla.net
 
 ||mozilla.com
 ||sync-1-us-west1-g.sync.services.mozilla.com
@@ -19,6 +22,10 @@
 
 ||mozilla.org
 ||incoming.telemetry.mozilla.org
+||aus5.mozilla.org
+||addons.mozilla.org
+||services.addons.mozilla.org
+||versioncheck-bg.addons.mozilla.org
 
 ! domain: Wappalyzer
 ||wappalyzer.com
@@ -28,11 +35,31 @@
 ||www.baidu.com
 ||passport.baidu.com
 ||hectorstatic.baidu.com
+||t10.baidu.com
+||t11.baidu.com
+||t12.baidu.com
 ||ss1.bdstatic.com
+||ss1.baidu.com
+||ss2.baidu.com
+||ss2.bdstatic.com
 ||api.map.baidu.com
+||ext.baidu.com
 ||map.baidu.com
+||mbd.baidu.com
 ||bdstatic.com
+||dss0.baidu.com
+||dss1.baidu.com
 ||dss0.bdstatic.com
+||dss1.bdstatic.com
+||vdposter.bdstatic.com
+||rmb.bdstatic.com
+||pic.rmb.bdstatic.com
+||sp3.baidu.com
+||sp0.baidu.com
+||sp1.baidu.com
+||sp2.baidu.com
+||gimg4.baidu.com
+||baijiahao.baidu.com
 
 ||gov.cn
 
@@ -75,3 +102,7 @@
 
 ||adblockplus.org
 ||easylist-downloads.adblockplus.org
+
+||bcebos.com
+||cdn.bcebos.com
+||cambrian-images.cdn.bcebos.com
